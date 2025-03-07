@@ -125,6 +125,12 @@
   left: 3px;
 }
 @media (min-width: 1152px) {
+  .nav__link {
+    position: relative;
+    color: var(--white);
+    font-size: 16px;
+    transition: 0.3s;
+  }
   .ham-btn {
     display: none !important;
   }
