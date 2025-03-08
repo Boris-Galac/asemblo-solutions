@@ -227,3 +227,12 @@ button {
   /* transform: translateY(-30px); */
   transition-duration: 0.3s;
 }
+.linkedin-btn {
+  position: absolute;
+  left: 3vw;
+  bottom: 2vh;
+  transition: 0.3s;
+}
+.linkedin-btn:hover {
+  scale: 1.1;
+}
