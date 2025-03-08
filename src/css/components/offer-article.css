@@ -2,10 +2,11 @@
   padding: 16px;
   outline: 1px solid var(--primary-clr);
   border-radius: 8px;
-  box-shadow: 0 0 16px rgb(64, 7, 187);
+  box-shadow: 0 0 16px 0px hsl(259, 93%, 38%);
   display: grid;
   place-items: center;
 }
+
 .offer-feature img {
   margin-bottom: 16px;
 }
